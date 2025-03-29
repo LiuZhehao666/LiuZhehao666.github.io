@@ -1,7 +1,8 @@
 {
-    "title":"三尺",
+    "title":"三尺的个人博客",
     "subTitle":"冰冻三尺非一日之寒",
     "avatarUrl":"https://avatars.githubusercontent.com/u/160885137?v=4",
     "homeUrl":"https://sanch.top",
+    "onePageListNum":20,
     "GMEEK_VERSION":"last"
 }
