@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/89f02dfe-82ec-4037-8707-23a085f693ba)
+![Image](https://github.com/user-attachments/assets/157cdb7d-2f08-498c-a055-e6371486bba0)
 
 ANI（Artificial Narrow Intelligence）叫做人工窄域智能，AGI（Artificial General Intelligence）叫做人工通用智能，ASI（Artificial Super Intelligence）。它们是人工智能发展的三个不同阶段，描述了人工智能不同的能力范围与智力水平。
 # ANI
